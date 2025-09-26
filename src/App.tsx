@@ -1,5 +1,5 @@
 import "./App.css"
-import Diciplina from "./Diciplina";
+import Diciplina from "./Disciplina";
 
 function App() {
   return (
