@@ -6,7 +6,9 @@ function App() {
   <>
     <h1>Hello World!</h1>
     <h2>Hi React!</h2>
-    <Diciplina />
+    <Diciplina codigo="DCC207" nome="Dev Web Front-End"/>
+    <Diciplina codigo="DCC206" nome="Dev Web I"/>
+    <Diciplina codigo="DCC202" nome="Dev Web II"/>
   </>
   );
 }
